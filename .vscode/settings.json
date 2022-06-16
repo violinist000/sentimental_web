@@ -1,0 +1,9 @@
+{
+    "editor.codeActionsOnSave": {
+    
+    },
+    "json.schemas": [
+    
+    ]
+    "emmet.includeLanguages": {"*,erb": "html", "ruby": "html"}
+}
